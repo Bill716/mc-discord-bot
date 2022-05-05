@@ -39,6 +39,7 @@ const updateChannel = async () => {
 
 client.on('ready', () => {
     console.log(`Ready. Logged as ${client.user.tag}.`)
+    client.user.setActivity('Minecraft', { type: 'PLAYING' })
     setInterval(() => {
         updateChannel()
     }, ms(config.updateInterval))
