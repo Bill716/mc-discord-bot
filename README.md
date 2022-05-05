@@ -23,7 +23,7 @@ Users can also request more information using the `stats` command, for example t
 
 ## 🛠️ Installation
 
-* **Clone** the repository (`git clone https://github.com/Androz2091/minecraft-discord-bot`) or **download** it.
+* **Clone** the repository (`git clone https://github.com/Bill716/mc-discord-bot`) or **download** it.
 * Install Node.js and NPM if they are not installed.
 * Open your terminal and run `npm install` to install all the dependencies.
 * [Fill the config file](#fill-the-config-file).
