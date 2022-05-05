@@ -1,5 +1,5 @@
 {
-  "name": "minecraft-discord-bot",
+  "name": "mc-discord-bot",
   "version": "0.1.0",
   "description": "View the status and statistics of your MC server directly on Discord!",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Androz2091/minecraft-discord-bot.git"
+    "url": "git+https://github.com/Bill716/mc-discord-bot"
   },
   "keywords": [
     "minecraft",
@@ -20,9 +20,9 @@
   ],
   "author": "Androz2091",
   "bugs": {
-    "url": "https://github.com/Androz2091/minecraft-discord-bot/issues"
+    "url": "https://github.com/Bill716/mc-discord-bot/issues"
   },
-  "homepage": "https://github.com/Androz2091/minecraft-discord-bot#readme",
+  "homepage": "https://github.com/Bill716/mc-discord-bot#readme",
   "dependencies": {
     "discord.js": "^12.2.0",
     "ms": "^2.1.2",
